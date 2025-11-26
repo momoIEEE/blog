@@ -1,0 +1,3 @@
+[submodule "hexo-theme-stun"]
+	path = themes/stun
+	url = https://theme-stun.github.io/docs/zh-CN/
